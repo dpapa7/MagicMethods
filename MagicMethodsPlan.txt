@@ -1,0 +1,5 @@
+Astronaut
+---------
++Name:string
++Space Flight (hr): int
++Status: string
